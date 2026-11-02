@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "skills": {
+    "api-designer": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/api-designer/SKILL.md",
+      "computedHash": "b9d0ef61ede97ff8b78bed7c97c98fd4461c39cfa80d544813e6790c18db1fc3"
+    },
+    "backend-development": {
+      "source": "moizibnyousaf/ai-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/backend-development/SKILL.md",
+      "computedHash": "7f05a82b3c35262cb0bcd458baf8abdd2f7e5245b75a698bdd2c42484d2d33ca"
+    },
+    "code-reviewer": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/code-reviewer/SKILL.md",
+      "computedHash": "81df05401295246f0497e518aba194b594690682a9352aa53577879cec9fb59c"
+    },
+    "csharp-developer": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/csharp-developer/SKILL.md",
+      "computedHash": "460ced665faa242042a7e9875eb938ea68059523ec73fea4a09226d1143e5000"
+    },
+    "database-architect": {
+      "source": "rmyndharis/antigravity-skills",
+      "sourceType": "github",
+      "skillPath": "skills/database-architect/SKILL.md",
+      "computedHash": "4200c80bbaa1c1ec1ef77363c99a87c3fe74c9768739e22ee41662c4d9621c02"
+    },
+    "docker-expert": {
+      "source": "personamanagmentlayer/pcl",
+      "sourceType": "github",
+      "skillPath": "stdlib/devops/docker-expert/SKILL.md",
+      "computedHash": "af0ad17a8f45b1d65167c2bc9e84cf288b7948f396c64e0e3157ef54504ca1c1"
+    },
+    "documentation-writer": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/documentation-writer/SKILL.md",
+      "computedHash": "ee53d65b163cd7eb953a930c95841cfe398cc2c0bd24c06508bbaa07c432be35"
+    },
+    "dotnet-core-expert": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/dotnet-core-expert/SKILL.md",
+      "computedHash": "55bfdb882d1ddb276f49c25dcd21187908eab395313c14721443f9406b62b968"
+    },
+    "git-workflow": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/git-workflow/SKILL.md",
+      "computedHash": "f44e488fd739565c1613b8dcc84a0f0ed224905e380265c42feebcea97b8c489"
+    },
+    "javascript-pro": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/javascript-pro/SKILL.md",
+      "computedHash": "187c9e4f8a68ed6a5a4781eb364aa7c5bdd0eacae3d306da36b00d658f90a718"
+    },
+    "laravel-best-practices": {
+      "source": "laravel/boost",
+      "sourceType": "github",
+      "skillPath": ".ai/laravel/skill/laravel-best-practices/SKILL.md",
+      "computedHash": "f256804a4ddc96f54a8653376377d7df83c4b22e7988886d8f47bfe90bae96b3"
+    },
+    "laravel-expert": {
+      "source": "sickn33/agentic-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/laravel-expert/SKILL.md",
+      "computedHash": "752fa334a89d7f4413968c32c13ecd033acb676d9575e9d954de1f5e3e0ae193"
+    },
+    "laravel-specialist": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/laravel-specialist/SKILL.md",
+      "computedHash": "54d63412e4b4024f384edaa7758e9ad7e76a5ff91a134f8042dbf6200b031800"
+    },
+    "nodejs-expert": {
+      "source": "oimiragieo/agent-studio",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/nodejs-expert/SKILL.md",
+      "computedHash": "c43e067dd0b9edf430a02eeeba6c01ae95fc4a0a30d44403a3b0783b6f6cf66a"
+    },
+    "performance-optimizer": {
+      "source": "oakoss/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/performance-optimizer/SKILL.md",
+      "computedHash": "8448936266c40cb52613c26289f65d57422893103b00bb83f01f46afa004ecf8"
+    },
+    "python-pro": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python-pro/SKILL.md",
+      "computedHash": "78f0a0b5d42c3598d07766e8d3eaf164830693711625f880087ed633b48deafe"
+    },
+    "react-specialist": {
+      "source": "jshsakura/awesome-opencode-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-specialist/SKILL.md",
+      "computedHash": "7dcfa7917c928fa48598e8dc158613af7df9112b28fba67a207f98f89ea5b257"
+    },
+    "security-reviewer": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/security-reviewer/SKILL.md",
+      "computedHash": "0d88e68d70f387847aa14f0b75df25d21e8abe98c2ee554e705f91fabe9d30f3"
+    },
+    "sql-pro": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/sql-pro/SKILL.md",
+      "computedHash": "c8a06d60eff391929b47908e667baeedabb28cf32e5289bdc843be91060bdfa3"
+    },
+    "typescript-pro": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/typescript-pro/SKILL.md",
+      "computedHash": "09f6e0722c8aa2167cedaeb4eb6dde4093e22f64d0ed290e4d8895f2bbe980fb"
+    },
+    "vector-search-engineer": {
+      "source": "agenticaiengineer/ai-engineer-skills",
+      "sourceType": "github",
+      "skillPath": "skills/vector-search-engineer/SKILL.md",
+      "computedHash": "08edddebcd61da5f7139f616b8fdc8030c20a241e6c4fb226c63e834a0edc5e3"
+    }
+  }
+}
